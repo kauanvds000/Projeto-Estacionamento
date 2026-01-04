@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1767546572 source:c:\users\ana milena\desktop\ap\ec1\func_estacionamentos.c
+	"Func_Estacionamentos.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1767546572 c:\users\ana milena\desktop\ap\ec1\func_estacionamentos.h
+	"Utils.h"
+
+1767389528 c:\users\ana milena\desktop\ap\ec1\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<locale.h>
+
+1767545274 source:c:\users\ana milena\desktop\ap\ec1\func_parqueestac.c
+	"Func_ParqueEstac.h"
+	"InstalacaoN.h"
+
+1767392463 c:\users\ana milena\desktop\ap\ec1\func_parqueestac.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utils.h"
+	"Func_Estacionamentos.h"
+
+1767392463 c:\users\ana milena\desktop\ap\ec1\instalacaon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Func_Estacionamentos.h"
+	"Func_Tarifas.h"
+	"Utils.h"
+
+1767389517 c:\users\ana milena\desktop\ap\ec1\func_tarifas.h
+	"Utils.h"
+
+1767389514 source:c:\users\ana milena\desktop\ap\ec1\func_tarifas.c
+	"Func_Tarifas.h"
+	"InstalacaoN.h"
+
+1767392463 source:c:\users\ana milena\desktop\ap\ec1\instalacaon.c
+	"InstalacaoN.h"
+	"Utils.h"
+	"Func_Tarifas.h"
+	"Func_ParqueEstac.h"
+	<locale.h>
+
+1767389525 source:c:\users\ana milena\desktop\ap\ec1\util.c
+	"Utils.h"
+	"InstalacaoN.h"
+
+1767546572 source:c:\users\ana milena\desktop\ap\ec1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Utils.h"
+	"Func_Estacionamentos.h"
+	"Func_Tarifas.h"
+	"InstalacaoN.h"
+	"Func_ParqueEstac.h"
+
+1767564219 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_binario.c
+	"Func_Binario.h"
+	<stdio.h>
+	<string.h>
+
+1767564219 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_binario.h
+	"Func_Estacionamentos.h"
+	"Func_Tarifas.h"
+	"InstalacaoN.h"
+
+1767546572 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_estacionamentos.h
+	"Utils.h"
+
+1767389528 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<locale.h>
+
+1767389517 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_tarifas.h
+	"Utils.h"
+
+1767392463 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\instalacaon.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"Func_Estacionamentos.h"
+	"Func_Tarifas.h"
+	"Utils.h"
+
+1767546572 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_estacionamentos.c
+	"Func_Estacionamentos.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1767545274 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_parqueestac.c
+	"Func_ParqueEstac.h"
+	"InstalacaoN.h"
+
+1767392463 c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_parqueestac.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utils.h"
+	"Func_Estacionamentos.h"
+
+1767389514 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\func_tarifas.c
+	"Func_Tarifas.h"
+	"InstalacaoN.h"
+
+1767392463 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\instalacaon.c
+	"InstalacaoN.h"
+	"Utils.h"
+	"Func_Tarifas.h"
+	"Func_ParqueEstac.h"
+	<locale.h>
+
+1767564219 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Utils.h"
+	"Func_Estacionamentos.h"
+	"Func_Tarifas.h"
+	"InstalacaoN.h"
+	"Func_ParqueEstac.h"
+	"Func_Binario.h"
+
+1767389525 source:c:\users\ana milena\desktop\ap\projeto_estacionamento_2025\util.c
+	"Utils.h"
+	"InstalacaoN.h"
+
