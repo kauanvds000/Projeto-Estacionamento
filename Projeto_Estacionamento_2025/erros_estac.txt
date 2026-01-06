@@ -1,5 +1,0 @@
-Data Entrada invalida: 29/02/2025 (Matricula: 38-TR-59)
-Data Saida invalida: 30/02/2025 (Matricula: 38-TR-59)
-Data Entrada invalida: 29/02/2025 (Matricula: 91-JX-24)
-Data Saida invalida: 30/02/2025 (Matricula: 91-JX-24)
-Data Saida invalida: 29/02/2025 (Matricula: 91-SV-78)
